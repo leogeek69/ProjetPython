@@ -1,0 +1,5 @@
+[project]
+name = 'Carburant'
+description = 'Visualisation des prix du carburant'
+author = [{name = 'Leo', email = 'leo.guigue69@gmail.com'}]
+require-python =  
