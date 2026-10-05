@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: Carburant
+Version: 0.1
+Summary: Visualisation des prix du carburant
+Author-email: Leo <leo.guigue69@gmail.com>
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: requests

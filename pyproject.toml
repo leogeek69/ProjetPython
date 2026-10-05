@@ -1,5 +1,7 @@
 [project]
 name = 'Carburant'
 description = 'Visualisation des prix du carburant'
-author = [{name = 'Leo', email = 'leo.guigue69@gmail.com'}]
-require-python =  
+authors = [{name = 'Leo', email = 'leo.guigue69@gmail.com'}]
+requires-python = '>=3.10'
+dependencies = ['pandas','requests', 'rich']
+version = '0.1'
